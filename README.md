@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kinima059
+- 👋 Hi, I’m @BGRG059
 - 👀 I’m interested in Data Analysis 
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on anything related to Data
