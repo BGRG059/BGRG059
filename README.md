@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis 
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on anything related to Data
-- 📫 How to reach me pm me (?)
+- 📫 How to reach me: pm me (?)
 
 <!---
 kinima059/kinima059 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
